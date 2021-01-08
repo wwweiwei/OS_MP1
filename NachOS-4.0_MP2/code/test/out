@@ -1,0 +1,30 @@
+fileIO_test1
+abcdefghijklmnopqrstuvwxyz
+Machine halting!
+
+This is halt
+Ticks: total 143, idle 0, system 50, user 93
+Disk I/O: reads 0, writes 0
+Console I/O: reads 0, writes 0
+Paging: faults 0
+Network I/O: packets received 0, sent 0
+fileIO_test1
+abcdefghijklmnopqrstuvwxyz
+Machine halting!
+
+This is halt
+Ticks: total 143, idle 0, system 50, user 93
+Disk I/O: reads 0, writes 0
+Console I/O: reads 0, writes 0
+Paging: faults 0
+Network I/O: packets received 0, sent 0
+fileIO_test1
+abcdefghijklmnopqrstuvwxyz
+Machine halting!
+
+This is halt
+Ticks: total 143, idle 0, system 50, user 93
+Disk I/O: reads 0, writes 0
+Console I/O: reads 0, writes 0
+Paging: faults 0
+Network I/O: packets received 0, sent 0
